@@ -1,0 +1,22 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+pandas = "*"
+polars = "*"
+notebook = "*"
+typer = "*"
+rich = "*"
+black = "*"
+ydata-profiling = "*"
+ipywidgets = "*"
+pygwalker = "*"
+numpy = "*"
+nltk = "*"
+
+[dev-packages]
+
+[requires]
+python_version = "3.11"
