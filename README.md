@@ -1,10 +1,11 @@
 <p align="center">
 <img src="content/logo.png" alt="Girl in a jacket" 
 width="400" height="400">
-
 </p>
 
-<h1 style="text-align: center">
+<br>
+
+<h1 align="center">
 Performancevergleich: Pandas vs. Polars
 </h1>
 
