@@ -25,6 +25,12 @@ Performancevergleich: Pandas vs. Polars
 ## Einleitung
 In der sich rasant entwickelnden Welt der Datenwissenschaft ist die Fähigkeit, große Datensätze effizient zu verarbeiten, entscheidend. Unser Projekt "Performancevergleich: Pandas vs. Polars" bietet eine umfassende Analyse und einen Vergleich dieser beiden führenden Datenverarbeitungs-Bibliotheken. Wir konzentrieren uns auf den Umgang mit großen Datasets (2 GB und 4 GB), um die Leistungsunterschiede klar aufzuzeigen. Dieses Repository dient als Lehrmaterial und Referenz für Data Science-Studenten und Fachleute, die die optimale Bibliothek für ihre spezifischen Anwendungsfälle auswählen möchten.
 
+### [Einleitung zu Pandas](content/Pandas-Introduction.md)
+Pandas ist eine Schlüsselbibliothek in der Python-Datenanalyse, die für ihre Fähigkeit zur effizienten Manipulation und Analyse großer Datensätze bekannt ist. Diese Einleitung bietet einen Überblick über die Grundlagen von Pandas, seine Hauptmerkmale und wie es die Datenanalyse revolutioniert hat. Für eine tiefergehende Betrachtung [klicken Sie hier](content/Pandas-Introduction.md).
+
+### [Einleitung zu Polars](content/Polars-Introduction.md)
+Polars, als moderne Alternative zu Pandas, hebt sich durch seine Geschwindigkeit und Effizienz bei der Verarbeitung großer Datenmengen hervor. In dieser Einleitung erfahren Sie mehr über die Besonderheiten von Polars, seine Leistungsvorteile und Anwendungsbereiche. Für weiterführende Informationen [klicken Sie hier](content/Polars-Introduction.md).
+
 ## Projekteinrichtung
 ### Setup mit Pipenv
 ```bash
