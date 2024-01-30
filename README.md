@@ -1,4 +1,4 @@
-<p style="text-align: center">
+<p align="center">
 <img src="content/logo.png" alt="Girl in a jacket" 
 width="500" height="500">
 
